@@ -1,0 +1,2 @@
+genome susScr11
+trackDb susScr11/trackDb.txt

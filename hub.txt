@@ -1,0 +1,4 @@
+hub test_RNAseq
+shortLabel Pig read distribution
+genomesFile genomes.txt
+email sunshaoxing2015@163.com
