@@ -1,4 +1,5 @@
 hub test_RNAseq
 shortLabel Pig read distribution
+longLabel test pig read distribution
 genomesFile genomes.txt
 email sunshaoxing2015@163.com
