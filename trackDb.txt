@@ -1,5 +1,5 @@
 track bigWig1
-type bigwig
+type bigWig
 bigDataUrl https://github.com/sunshx-bioinfo/DataUrl/blob/master/accepted_hits_chr.bw
 shortLabel bigWig_test
 longLabel Test bigwig track from RNAseq bam file
