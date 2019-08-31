@@ -1,0 +1,5 @@
+hub pigPGEmbryoRNAseq
+shortLabel Pig read distribution
+longLabel pigPGEmbryoRNAseq read distribution
+genomesFile genomes.txt
+email sunshaoxing2015@163.com
