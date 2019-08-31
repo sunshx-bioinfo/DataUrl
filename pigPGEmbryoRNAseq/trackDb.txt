@@ -34,8 +34,8 @@ longLabel PGKdm6bOverExpress RNAseq read(bam) track
 visibility dense
 
 track PG_Morula_rep1
-type bigWig https://raw.githubusercontent.com/sunshx-bioinfo/DataUrl/master/pigPGEmbryoRNAseq/PG/PG_Morula_rep1.bw
-bigDataUrl
+type bigWig
+bigDataUrl https://raw.githubusercontent.com/sunshx-bioinfo/DataUrl/master/pigPGEmbryoRNAseq/PG/PG_Morula_rep1.bw
 shortLabel PG track
 longLabel PG Morula RNAseq read(bam) track
 visibility dense
