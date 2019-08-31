@@ -1,5 +1,5 @@
 hub pigPGEmbryoRNAseq
-shortLabel Pig read distribution
-longLabel pigPGEmbryoRNAseq read distribution
+shortLabel Pig Morula read distribution
+longLabel pig PG morula embryo RNAseq read distribution
 genomesFile genomes.txt
 email sunshaoxing2015@163.com
