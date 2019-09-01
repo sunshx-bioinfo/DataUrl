@@ -1,0 +1,5 @@
+hub pigPGEmbryoRNAseq_Normalize
+shortLabel Pig Morula read distribution
+longLabel pig PG morula embryo RNAseq read distribution
+genomesFile genomes.txt
+email sunshaoxing2015@163.com
