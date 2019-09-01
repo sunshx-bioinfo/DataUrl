@@ -7,7 +7,7 @@ visibility dense
 
 track PG_Morula_Kdm6bOverExpress_rep2
 type bigWig
-bigDataUrl https://raw.githubusercontent.com/sunshx-bioinfo/DataUrl/master/pigPGEmbryoRNAseqNormalie/PGKdm6bOver/PG_Morula_Kdm6bOverExpress_rep2.bw
+bigDataUrl https://raw.githubusercontent.com/sunshx-bioinfo/DataUrl/master/pigPGEmbryoRNAseqNormalize/PGKdm6bOver/PG_Morula_Kdm6bOverExpress_rep2.bw
 shortLabel PGKdm6bOver_rep2
 longLabel PG_Morula_Kdm6bOverExpress_rep2
 visibility dense
@@ -35,28 +35,28 @@ visibility dense
 
 track PG_Morula_rep1
 type bigWig
-bigDataUrl https://raw.githubusercontent.com/sunshx-bioinfo/DataUrl/master/pigPGEmbryoRNAseqNormalizeNormalize/PG/PG_Morula_rep1.bw
+bigDataUrl https://raw.githubusercontent.com/sunshx-bioinfo/DataUrl/master/pigPGEmbryoRNAseqNormalize/PG/PG_Morula_rep1.bw
 shortLabel PG_rep1
 longLabel PG_Morula_rep1
 visibility dense
 
 track PG_Morula_rep2
 type bigWig
-bigDataUrl https://raw.githubusercontent.com/sunshx-bioinfo/DataUrl/master/pigPGEmbryoRNAseqNormalize/PG/PG_Morula_rep2.bw
+bigDataUrl https://raw.githubusercontent.com/sunshx-bioinfo/DataUrl/master/pigPGEmbryoRNAseqNormalize/PG/PG_Morula_rep3.bw
 shortLabel PG_rep2
 longLabel PG_Morula_rep2
 visibility dense
 
 track PG_Morula_rep3
 type bigWig
-bigDataUrl https://raw.githubusercontent.com/sunshx-bioinfo/DataUrl/master/pigPGEmbryoRNAseqNormalize/PG/PG_Morula_rep3.bw
+bigDataUrl https://raw.githubusercontent.com/sunshx-bioinfo/DataUrl/master/pigPGEmbryoRNAseqNormalize/PG/PG_Morula_rep4.bw
 shortLabel PG_rep3
 longLabel PG_Morula_rep3
 visibility dense
 
 track PG_Morula_rep4
 type bigWig
-bigDataUrl https://raw.githubusercontent.com/sunshx-bioinfo/DataUrl/master/pigPGEmbryoRNAseqNormalize/PG/PG_Morula_rep4.bw
+bigDataUrl https://raw.githubusercontent.com/sunshx-bioinfo/DataUrl/master/pigPGEmbryoRNAseqNormalize/PG/PG_Morula_rep5.bw
 shortLabel PG_rep4
 longLabel PG_Morula_rep4
 visibility dense
