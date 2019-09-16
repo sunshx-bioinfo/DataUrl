@@ -1,0 +1,89 @@
+track 293T_WT_1cell_rep1
+type bigWig
+bigDataUrl
+shortLabel c1_1
+longLabel 293T_WT_1cell_rep1
+visibility full
+color 255,0,0
+maxHeightPixels 100:32:8
+
+track 293T_WT_1cell_rep1
+type bigWig
+bigDataUrl
+shortLabel c1_1
+longLabel 293T_WT_1cell_rep1
+visibility full
+color 255,0,0
+maxHeightPixels 100:32:8
+
+track 293T_WT_1cell_rep1
+type bigWig
+bigDataUrl
+shortLabel c1_1
+longLabel 293T_WT_1cell_rep1
+visibility full
+color 255,0,0
+maxHeightPixels 100:32:8
+
+track 293T_WT_1cell_rep1
+type bigWig
+bigDataUrl
+shortLabel c1_1
+longLabel 293T_WT_1cell_rep1
+visibility full
+color 255,0,0
+maxHeightPixels 100:32:8
+
+track 293T_WT_1cell_rep1
+type bigWig
+bigDataUrl
+shortLabel c1_1
+longLabel 293T_WT_1cell_rep1
+visibility full
+color 255,0,0
+maxHeightPixels 100:32:8
+
+track 293T_WT_1cell_rep1
+type bigWig
+bigDataUrl
+shortLabel c1_1
+longLabel 293T_WT_1cell_rep1
+visibility full
+color 255,0,0
+maxHeightPixels 100:32:8
+
+track 293T_WT_1cell_rep1
+type bigWig
+bigDataUrl
+shortLabel c1_1
+longLabel 293T_WT_1cell_rep1
+visibility full
+color 255,0,0
+maxHeightPixels 100:32:8
+
+track 293T_WT_1cell_rep1
+type bigWig
+bigDataUrl
+shortLabel c1_1
+longLabel 293T_WT_1cell_rep1
+visibility full
+color 255,0,0
+maxHeightPixels 100:32:8
+
+track 293T_WT_1cell_rep1
+type bigWig
+bigDataUrl
+shortLabel c1_1
+longLabel 293T_WT_1cell_rep1
+visibility full
+color 255,0,0
+maxHeightPixels 100:32:8
+
+track 293T_WT_1cell_rep1
+type bigWig
+bigDataUrl
+shortLabel c1_1
+longLabel 293T_WT_1cell_rep1
+visibility full
+color 255,0,0
+maxHeightPixels 100:32:8
