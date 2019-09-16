@@ -1,89 +1,198 @@
-track 293T_WT_1cell_rep1
+track 293T_WT_1cell_rep1_Peak
 type bigWig
-bigDataUrl
-shortLabel c1_1
-longLabel 293T_WT_1cell_rep1
+bigDataUrl https://raw.githubusercontent.com/sunshx-bioinfo/DataUrl/master/scATACseq_ZT190903/peak/A001.bw
+shortLabel c1_1 peak
+longLabel 293T_WT_1cell_rep1_Peak
 visibility full
 color 255,0,0
 maxHeightPixels 100:32:8
 
-track 293T_WT_1cell_rep1
+track 293T_WT_1cell_rep2_Peak
 type bigWig
-bigDataUrl
-shortLabel c1_1
-longLabel 293T_WT_1cell_rep1
+bigDataUrl https://raw.githubusercontent.com/sunshx-bioinfo/DataUrl/master/scATACseq_ZT190903/peak/A002.bw
+shortLabel c1_2 peak
+longLabel 293T_WT_1cell_rep2_Peak
 visibility full
 color 255,0,0
 maxHeightPixels 100:32:8
 
-track 293T_WT_1cell_rep1
+track 293T_WT_1cell_rep3_Peak
 type bigWig
-bigDataUrl
-shortLabel c1_1
-longLabel 293T_WT_1cell_rep1
+bigDataUrl https://raw.githubusercontent.com/sunshx-bioinfo/DataUrl/master/scATACseq_ZT190903/peak/A004.bw
+shortLabel c1_3 peak
+longLabel 293T_WT_1cell_rep3_Peak
 visibility full
 color 255,0,0
 maxHeightPixels 100:32:8
 
-track 293T_WT_1cell_rep1
+track 293T_WT_1cell_rep4_Peak
 type bigWig
-bigDataUrl
-shortLabel c1_1
-longLabel 293T_WT_1cell_rep1
+bigDataUrl https://raw.githubusercontent.com/sunshx-bioinfo/DataUrl/master/scATACseq_ZT190903/peak/A005.bw
+shortLabel c1_4 peak
+longLabel 293T_WT_1cell_rep4_Peak
 visibility full
 color 255,0,0
 maxHeightPixels 100:32:8
 
-track 293T_WT_1cell_rep1
+track 293T_WT_5cell_rep1_Peak
 type bigWig
-bigDataUrl
-shortLabel c1_1
-longLabel 293T_WT_1cell_rep1
+bigDataUrl https://raw.githubusercontent.com/sunshx-bioinfo/DataUrl/master/scATACseq_ZT190903/peak/A006.bw
+shortLabel c5_1 peak
+longLabel 293T_WT_5cell_rep1_Peak
 visibility full
 color 255,0,0
 maxHeightPixels 100:32:8
 
-track 293T_WT_1cell_rep1
+track 293T_WT_5cell_rep2_Peak
 type bigWig
-bigDataUrl
-shortLabel c1_1
-longLabel 293T_WT_1cell_rep1
+bigDataUrl https://raw.githubusercontent.com/sunshx-bioinfo/DataUrl/master/scATACseq_ZT190903/peak/A007.bw
+shortLabel c5_2 peak
+longLabel 293T_WT_5cell_rep2_Peak
 visibility full
 color 255,0,0
 maxHeightPixels 100:32:8
 
-track 293T_WT_1cell_rep1
+track 293T_WT_5cell_rep3_Peak
 type bigWig
-bigDataUrl
-shortLabel c1_1
-longLabel 293T_WT_1cell_rep1
+bigDataUrl https://raw.githubusercontent.com/sunshx-bioinfo/DataUrl/master/scATACseq_ZT190903/peak/A009.bw
+shortLabel c5_3 peak
+longLabel 293T_WT_5cell_rep3_Peak
 visibility full
 color 255,0,0
 maxHeightPixels 100:32:8
 
-track 293T_WT_1cell_rep1
+track 293T_WT_5cell_rep4_Peak
 type bigWig
-bigDataUrl
-shortLabel c1_1
-longLabel 293T_WT_1cell_rep1
+bigDataUrl https://raw.githubusercontent.com/sunshx-bioinfo/DataUrl/master/scATACseq_ZT190903/peak/A010.bw
+shortLabel c5_4 peak
+longLabel 293T_WT_5cell_rep4_Peak
 visibility full
 color 255,0,0
 maxHeightPixels 100:32:8
 
-track 293T_WT_1cell_rep1
+track 293T_WT_10cell_rep1_Peak
 type bigWig
-bigDataUrl
-shortLabel c1_1
-longLabel 293T_WT_1cell_rep1
+bigDataUrl https://raw.githubusercontent.com/sunshx-bioinfo/DataUrl/master/scATACseq_ZT190903/peak/A012.bw
+shortLabel c10_1 peak
+longLabel 293T_WT_10cell_rep1_Peak
 visibility full
 color 255,0,0
 maxHeightPixels 100:32:8
 
-track 293T_WT_1cell_rep1
+track 293T_WT_10cell_rep2_Peak
 type bigWig
-bigDataUrl
-shortLabel c1_1
-longLabel 293T_WT_1cell_rep1
+bigDataUrl https://raw.githubusercontent.com/sunshx-bioinfo/DataUrl/master/scATACseq_ZT190903/peak/A013.bw
+shortLabel c10_2 peak
+longLabel 293T_WT_10cell_rep2_Peak
 visibility full
 color 255,0,0
+maxHeightPixels 100:32:8
+
+track 293T_WT_Merge_peak
+type bigWig
+bigDataUrl https://raw.githubusercontent.com/sunshx-bioinfo/DataUrl/master/scATACseq_ZT190903/peak/merge.bw
+shortLabel merge peak
+longLabel 293T_WT_Merge_Peak
+visibility full
+color 255,0,255
+maxHeightPixels 100:32:8
+
+
+track 293T_WT_1cell_rep1_Read
+type bigWig
+bigDataUrl https://raw.githubusercontent.com/sunshx-bioinfo/DataUrl/master/scATACseq_ZT190903/bam/A001_usable.bw
+shortLabel c1_1 Read
+longLabel 293T_WT_1cell_rep1_Read
+visibility full
+color 0,0,255
+maxHeightPixels 100:32:8
+
+track 293T_WT_1cell_rep2_Read
+type bigWig
+bigDataUrl https://raw.githubusercontent.com/sunshx-bioinfo/DataUrl/master/scATACseq_ZT190903/bam/A002_usable.bw
+shortLabel c1_2 Read
+longLabel 293T_WT_1cell_rep2_Read
+visibility full
+color 0,0,255
+maxHeightPixels 100:32:8
+
+track 293T_WT_1cell_rep3_Read
+type bigWig
+bigDataUrl https://raw.githubusercontent.com/sunshx-bioinfo/DataUrl/master/scATACseq_ZT190903/bam/A004_usable.bw
+shortLabel c1_3 Read
+longLabel 293T_WT_1cell_rep3_Read
+visibility full
+color 0,0,255
+maxHeightPixels 100:32:8
+
+track 293T_WT_1cell_rep4_Read
+type bigWig
+bigDataUrl https://raw.githubusercontent.com/sunshx-bioinfo/DataUrl/master/scATACseq_ZT190903/bam/A005_usable.bw
+shortLabel c1_4 Read
+longLabel 293T_WT_1cell_rep4_Read
+visibility full
+color 0,0,255
+maxHeightPixels 100:32:8
+
+track 293T_WT_5cell_rep1_Read
+type bigWig
+bigDataUrl https://raw.githubusercontent.com/sunshx-bioinfo/DataUrl/master/scATACseq_ZT190903/bam/A006_usable.bw
+shortLabel c5_1 Read
+longLabel 293T_WT_5cell_rep1_Read
+visibility full
+color 0,0,255
+maxHeightPixels 100:32:8
+
+track 293T_WT_5cell_rep2_Read
+type bigWig
+bigDataUrl https://raw.githubusercontent.com/sunshx-bioinfo/DataUrl/master/scATACseq_ZT190903/bam/A007_usable.bw
+shortLabel c5_2 Read
+longLabel 293T_WT_5cell_rep2_Read
+visibility full
+color 0,0,255
+maxHeightPixels 100:32:8
+
+track 293T_WT_5cell_rep3_Read
+type bigWig
+bigDataUrl https://raw.githubusercontent.com/sunshx-bioinfo/DataUrl/master/scATACseq_ZT190903/bam/A009_usable.bw
+shortLabel c5_3 Read
+longLabel 293T_WT_5cell_rep3_Read
+visibility full
+color 0,0,255
+maxHeightPixels 100:32:8
+
+track 293T_WT_5cell_rep4_Read
+type bigWig
+bigDataUrl https://raw.githubusercontent.com/sunshx-bioinfo/DataUrl/master/scATACseq_ZT190903/bam/A010_usable.bw
+shortLabel c5_4 Read
+longLabel 293T_WT_5cell_rep4_Read
+visibility full
+color 0,0,255
+maxHeightPixels 100:32:8
+
+track 293T_WT_10cell_rep1_Read
+type bigWig
+bigDataUrl https://raw.githubusercontent.com/sunshx-bioinfo/DataUrl/master/scATACseq_ZT190903/bam/A012_usable.bw
+shortLabel c10_1 Read
+longLabel 293T_WT_10cell_rep1_Read
+visibility full
+color 0,0,255
+maxHeightPixels 100:32:8
+
+track 293T_WT_10cell_rep2_Read
+type bigWig
+bigDataUrl https://raw.githubusercontent.com/sunshx-bioinfo/DataUrl/master/scATACseq_ZT190903/bam/A013_usable.bw
+shortLabel c10_2 Read
+longLabel 293T_WT_10cell_rep2_Read
+visibility full
+color 0,0,255
+maxHeightPixels 100:32:8
+
+track 293T_WT_Merge_Read
+type bigWig
+bigDataUrl https://raw.githubusercontent.com/sunshx-bioinfo/DataUrl/master/scATACseq_ZT190903/bam/merge_sort.bw
+shortLabel Merge Read
+longLabel 293T_WT_Merge_Read
+visibility full
+color 0,0,255
 maxHeightPixels 100:32:8
