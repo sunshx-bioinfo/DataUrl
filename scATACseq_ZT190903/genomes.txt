@@ -1,0 +1,2 @@
+genome GRCh38
+trackDb trackDb.txt
