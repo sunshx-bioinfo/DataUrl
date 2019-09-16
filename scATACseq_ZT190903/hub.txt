@@ -1,0 +1,5 @@
+hub 293T_WT_ATACseq_Peak_Distribution
+shortLabel peak track
+longLabel WT 293T peak track
+genomesFile genomes.txt
+email sunshaoxing2015@163.com
