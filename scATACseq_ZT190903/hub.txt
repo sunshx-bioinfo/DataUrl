@@ -1,5 +1,5 @@
-hub 293T_WT_ATACseq_Peak_Distribution
-shortLabel peak track
-longLabel WT 293T peak track
+hub 293T_WT_ATACseq_Peaks&Reads_Distribution
+shortLabel WT 293T track
+longLabel WT 293T peaks & reads track
 genomesFile genomes.txt
 email sunshaoxing2015@163.com
